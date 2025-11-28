@@ -1,1 +1,1 @@
-print("Завдання 8 виконано у гілці master")
+print("MASTER VERSION!!!")
